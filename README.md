@@ -4,6 +4,11 @@ Der **Conversion-Rate-Optimierung-Check** ist ein kostenloses, browserbasiertes 
 
 Das Tool läuft vollständig lokal im Browser. Es benötigt keine Installation, keinen Server, keine externen APIs und sendet keine personenbezogenen Daten an Dritte.
 
+## Jetzt das Online-Conversion-Rate-Checker-Tool im Browser starten
+
+➡️ https://tim-m-83.github.io/conversion-rate-optimierung-check/
+
+
 ## Benötigen Sie Hilfe bei der Conversion-Rate-Optimierung Ihrer Webseite oder Ihres Onlineshops?
 
 Professionelle Conversion-Rate-Optimierung von Mediencenter Essen:
@@ -140,9 +145,7 @@ http://localhost:8080/
 4. Als Quelle das Root-Verzeichnis wählen.
 5. Die veröffentlichte GitHub-Pages-URL in `README.md` und bei Bedarf im Canonical-Link anpassen.
 
-## SEO-Keywords
 
-Das Projekt ist inhaltlich auf Suchbegriffe wie **Conversion Rate Optimierung Tool**, **Conversion Rate Check**, **CRO Check**, **Website Conversion verbessern**, **Onlineshop Conversion optimieren**, **Landingpage Optimierung**, **Checkout Optimierung**, **WooCommerce Conversion Optimierung**, **mehr Anfragen über Website**, **mehr Verkäufe im Onlineshop** und **CRO Audit** ausgerichtet.
 
 ## FAQ
 
