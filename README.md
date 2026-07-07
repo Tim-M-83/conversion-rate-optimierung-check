@@ -8,6 +8,8 @@ Das Tool läuft vollständig lokal im Browser. Es benötigt keine Installation, 
 
 ➡️ https://tim-m-83.github.io/conversion-rate-optimierung-check/
 
+Klicken Sie einfach auf den Link und unser Conversion-Rate-Checker-Tool öffnet sich direkt in Ihrem Browser. Keine Installation notwendig!
+
 
 ## Benötigen Sie Hilfe bei der Conversion-Rate-Optimierung Ihrer Webseite oder Ihres Onlineshops?
 
